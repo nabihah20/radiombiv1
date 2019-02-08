@@ -52,7 +52,7 @@
                 <span class="d-block mb-2 text-white-opacity-05">The Director</span>
                 <p class="mb-4">Temui saya setiap hari Isnin, Selasa, Rabu, Khamis dan Jumaat</p>
                 <p>
-                  <a href="https://www.facebook.com/syah.khemah" class="text-white p-2"><span class="icon-facebook"></span></a>
+                  <a href="https://www.facebook.com/syahrizal.azmi.33" target="_blank" class="text-white p-2"><span class="icon-facebook"></span></a>
                 </p>
               </div>
             </div>
@@ -70,7 +70,7 @@
                   <a class="btn btn-primary" href="/djiz" role="button">Lihat Profil</a>
                 </p>
                 <p>
-                  <a href="https://www.facebook.com/izman.idris" class="text-white p-2"><span class="icon-facebook"></span></a>
+                  <a href="https://www.facebook.com/izman.idris" target="_blank" class="text-white p-2"><span class="icon-facebook"></span></a>
                 </p>
               </div>
             </div>
@@ -87,7 +87,7 @@
                   <a class="btn btn-primary" href="/djsyah" role="button">Lihat Profil</a>
                 </p>
                 <p>
-                  <a href="" class="text-white p-2"><span class="icon-facebook"></span></a>
+                  <a href="https://www.facebook.com/syah.khemah" target="_blank" class="text-white p-2"><span class="icon-facebook"></span></a>
                 </p>
               </div>
             </div>
@@ -104,7 +104,7 @@
                   <a class="btn btn-primary" href="/djelly" role="button">Lihat Profil</a>
                 </p>
                 <p>
-                  <a href="https://www.facebook.com/suhirleyarfiza.khalil.73" class="text-white p-2"><span class="icon-facebook"></span></a>
+                  <a href="https://www.facebook.com/suhirleyarfiza.khalil.73" target="_blank" class="text-white p-2"><span class="icon-facebook"></span></a>
                 </p>
               </div>
             </div>
@@ -121,7 +121,7 @@
                   <a class="btn btn-primary" href="/djfaz" role="button">Lihat Profil</a>
                 </p>
                 <p>
-                  <a href="https://www.facebook.com/faizalhawafiz.abdulwafar" class="text-white p-2"><span class="icon-facebook"></span></a>
+                  <a href="https://www.facebook.com/faizalhawafiz.abdulwafar" target="_blank" class="text-white p-2"><span class="icon-facebook"></span></a>
                 </p>
               </div>
             </div>
@@ -138,7 +138,7 @@
                   <a class="btn btn-primary" href="/djzam" role="button">Lihat Profil</a>
                 </p>
                 <p>
-                  <a href="https://www.facebook.com/zamputra30" class="text-white p-2"><span class="icon-facebook"></span></a>
+                  <a href="https://www.facebook.com/zamputra30" target="_blank" class="text-white p-2"><span class="icon-facebook"></span></a>
                 </p>
               </div>
             </div>
@@ -155,7 +155,7 @@
                   <a class="btn btn-primary" href="/djisz" role="button">Lihat Profil</a>
                 </p>
                 <p>
-                  <a href="https://www.facebook.com/profile.php?id=100009990544069" class="text-white p-2"><span class="icon-facebook"></span></a>
+                  <a href="https://www.facebook.com/profile.php?id=100009990544069" target="_blank" class="text-white p-2"><span class="icon-facebook"></span></a>
                 </p>
               </div>
             </div>
@@ -172,7 +172,7 @@
                   <a class="btn btn-primary" href="/djmil" role="button">Lihat Profil</a>
                 </p>
                 <p>
-                  <a href="https://www.facebook.com/aremerr" class="text-white p-2"><span class="icon-facebook"></span></a>
+                  <a href="https://www.facebook.com/aremerr" target="_blank" class="text-white p-2"><span class="icon-facebook"></span></a>
                 </p>
               </div>
             </div>
