@@ -47,7 +47,7 @@
             </div>
             <div class="row">
                 <div class="col-sm-7 animated fadeInLeft visible" data-animation="fadeInLeft" data-animation-delay="300">
-                    <img src="images/tentang.png" alt="" class="img-responsive iphone1">
+                    <img src="images/mobilepage.png" alt="" class="img-responsive iphone1">
                 </div>
                 <div class="col-sm-5 animated fadeInRight visible" data-animation="fadeInRight" data-animation-delay="300">
                         <p>&ensp;</p>
@@ -59,8 +59,8 @@
                         <p>&ensp;</p>
                         <table class="table table-striped">
                             <tr>
-                                <th><a href ="https://itunes.apple.com/us/app/radio-mbi/id1197151289?mt=8"><img src="images/app1.png" alt="" class="img-responsive"></a></th>
-                                <th><a href="https://play.google.com/store/apps/details?id=com.qamarsolutions.radiombi&hl=en"><img src="images/app2.png" alt="" class="img-responsive"></a></th>
+                                <th><a href ="https://itunes.apple.com/us/app/radio-mbi/id1197151289?mt=8" target="_blank" class="pl-0 pr-3"><img src="images/app1.png" alt="" class="img-responsive"></a></th>
+                                <th><a href="https://play.google.com/store/apps/details?id=com.qamarsolutions.radiombi&hl=en" target="_blank" class="pl-0 pr-3"><img src="images/app2.png" alt="" class="img-responsive"></a></th>
                             </tr>
                         </table>
                         <p>&ensp;</p>
