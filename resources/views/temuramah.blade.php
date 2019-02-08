@@ -18,5 +18,27 @@
       </div>
     </div>
 
+    <div class="site-section">
+      <div class="container" data-aos="fade-up">
+        <div class="row">
+          <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
+            <h2 class="mb-5">TEMURAMAH</h2>
+          </div>
+        </div>
+
+        <div class="row">
+
+          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
+            <div class="fb-post" data-href="https://www.facebook.com/RadioMajlisBandarayaIpoh/videos/622179954879731/?__xts__%5B0%5D=68.ARDhtCyRR9GomGODKVN6tuJgA9PGNCLAyd_GVV06nNmPAKJZ9v3pJt-qo1NUgpH_lZ_JQfThNgz-Lg3bkbR7o7V6YC-wWVPHN5-stsQaY0ImvX9myyMCUk4Vnz54XbFK1Mi87nGo0mdWL2DdxRnnI3F3txL8ohcgwRdtDNwFvVKnN3_inasCoL6q-ARUyVT9O-DpN2p2ISZrGr2M-txsYNYu4zD5_cYRBeLT5weOHBhn-ugIwOYaVtBt3B4d_kFkZYWEYPAqhFUfAvlVAUdF3pHPM2pCNJLSFjFbaqnO6F6AXLpnLNnJkb6q7iGQP_lyNon59EJhs2AtOPtaAp1TL6mMwpuKpEICNibD5g&amp;__tn__=-R" data-width="380" data-show-text="true"><blockquote cite="https://www.facebook.com/RadioMajlisBandarayaIpoh/videos/622179954879731/" class="fb-xfbml-parse-ignore"><p>Selamat datang dan terima kasih kepada deligasi daripada DBKL
+#dewanbandarayakualalumpur</p>Posted by <a href="https://www.facebook.com/RadioMajlisBandarayaIpoh/">Radio Majlis Bandaraya Ipoh</a> on&nbsp;<a href="https://www.facebook.com/RadioMajlisBandarayaIpoh/videos/622179954879731/">Thursday, January 24, 2019</a></blockquote></div>
+            </div>
+          </div>
+          
+        </div>
+
+
+        
+      </div>
+    </div>
 
 @endsection
