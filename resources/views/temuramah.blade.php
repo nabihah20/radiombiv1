@@ -12,7 +12,7 @@
           <div class="col-md-7 text-center" data-aos="fade-up" data-aos-delay="400">
             
             <h2 class="text-white h1">TEMURAMAH RADIO MBI</h2>
-            <p>Temuramah bersama DJ Radio MBI dan jemputan di Konti Radio MBI</p>
+            <p>Temuramah bersama DJ Radio MBI dan tetamu jemputan di Konti Radio MBI</p>
           </div>
         </div>
       </div>
