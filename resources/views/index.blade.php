@@ -78,7 +78,7 @@
                   <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
                     <br/><br/><br/><br/><br/><br/>
                     <h2 class="mb-5">CHATBOX</h2>
-                    <p>Berbual bersama DJ dan pengguna lain</p>
+                    <p>Berbual bersama DJ dan pengguna Radio MBI</p>
                   </div>
                 </div>
                 <div class="col-sm-5 animated fadeInRight visible" data-animation="fadeInRight" data-animation-delay="300">
