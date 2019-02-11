@@ -32,7 +32,7 @@
         <div class="row no-gutters">
           <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100">
             <a href="#" class="unit-9">
-              <div class="image" style="background-image: url('images/slot sembang pagi.png');"></div>
+              <div class="image" style="background-image: url('images/slot sembang pagi.jpg');"></div>
               <div class="unit-9-content">
                 <h2>SEMBANG PAGI</h2>
                 <span>8 pagi &mdash; 11 pagi</span>
@@ -42,7 +42,7 @@
 
           <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200">
             <a href="#" class="unit-9">
-              <div class="image" style="background-image: url('images/slot hello ipoh.png');"></div>
+              <div class="image" style="background-image: url('images/slot hello ipoh.jpg');"></div>
               <div class="unit-9-content">
                 <h2>HELLO IPOH</h2>
                 <span>11 pagi &mdash; 1 petang</span>
@@ -51,7 +51,7 @@
           </div>
           <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
             <a href="#" class="unit-9">
-              <div class="image" style="background-image: url('images/slot santai petang.png');"></div>
+              <div class="image" style="background-image: url('images/slot santai petang.jpg');"></div>
               <div class="unit-9-content">
                 <h2>SANTAI PETANG</h2>
                 <span>2 petang &mdash; 3 petang</span>
@@ -60,7 +60,7 @@
           </div>
           <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
             <a href="#" class="unit-9">
-              <div class="image" style="background-image: url('images/slot jom relax.png');"></div>
+              <div class="image" style="background-image: url('images/slot jom relax.jpg');"></div>
               <div class="unit-9-content">
                 <h2>JOM RELAX</h2>
                 <span>3 petang &mdash; 5 petang</span>
