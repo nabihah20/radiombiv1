@@ -76,13 +76,13 @@
             <div class="row">
                 <div class="col-sm-7 animated fadeInLeft visible" data-animation="fadeInLeft" data-animation-delay="300">
                   <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
-                    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+                    <br/><br/><br/><br/><br/><br/>
                     <h2 class="mb-5">CHATBOX</h2>
                     <p>Berbual bersama DJ dan pengguna lain</p>
                   </div>
                 </div>
                 <div class="col-sm-5 animated fadeInRight visible" data-animation="fadeInRight" data-animation-delay="300">
-                  <iframe src="https://www5.cbox.ws/box/?boxid=910764&boxtag=XqAf0T" width="400" height="700" allowtransparency="no" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
+                  <iframe src="https://www5.cbox.ws/box/?boxid=910764&boxtag=XqAf0T" width="400" height="400" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
                 </div>  
             </div>
         </div>
