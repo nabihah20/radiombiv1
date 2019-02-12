@@ -86,7 +86,7 @@
                     <p>Bersembang bersama kami</p>
                   </div>
                 </div>
-                  <iframe src="https://www5.cbox.ws/box/?boxid=910764&boxtag=XqAf0T" width="400" height="600" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
+                  <iframe src="https://www5.cbox.ws/box/?boxid=910764&boxtag=XqAf0T" width="300" height="600" allowtransparency="yes" allow="autoplay" frameborder="0" margin="10" scrolling="auto"></iframe>	
                 </div>  
             </div>
         </div>
