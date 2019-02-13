@@ -131,7 +131,7 @@
           <div class="col-md-12">
             <p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Hakcipta <a href="http://www.mbi.gov.my/" target="_blank" >Majlis Bandaraya Ipoh</a>  &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> </p>
+            Hakcipta <a href="http://www.mbi.gov.my/" target="_blank" >Majlis Bandaraya Ipoh</a>  &copy; <script>document.write(new Date().getFullYear());</script> </p>
             <p>This template is made by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
